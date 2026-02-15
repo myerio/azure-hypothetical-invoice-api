@@ -21,6 +21,9 @@ It is designed for **learning, experimentation, and portfolio presentation**.
 - Safe handling of environment variables  
 - Minimal, easy‑to‑understand codebase  
 
+
+![API Flow Diagram](docs/flow-diagram.png)
+
 ---
 
 ## 🧱 Project Structure
